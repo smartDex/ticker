@@ -8,7 +8,7 @@ class Navbar extends React.Component {
         <div className="container-fluid">
           <div className="row">
             <div className="col-6 v-center">
-              <a className="nav-link text-white hover-warning" href="/"><strong><em>ticker</em></strong></a>
+              <a className="nav-link text-white hover-warning" href="https://adrianiskander.github.io/ticker"><strong><em>ticker</em></strong></a>
               <br className="d-none" />
               <br className="d-none" />
             </div>
