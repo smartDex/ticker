@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "Adrian Iskander",
   "license": "MIT",
-  "homepage": "https://adrianiskander.github.io/ticker/",
+  "homepage": "https://adrianiskander.github.io/ticker",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
