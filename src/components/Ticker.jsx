@@ -51,6 +51,7 @@ class Ticker extends React.Component {
 
     cryptoIO.emit("SubAdd", { "subs": subs })
     cryptoIO.on("m", (message) => {
+      console.log(message);
       this.updateCoin(message)
     })
   }
